@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/S-L_Beauty/static/css/main.25eaaff8.css",
-    "main.js": "/S-L_Beauty/static/js/main.466946d4.js",
+    "main.js": "/S-L_Beauty/static/js/main.c935f1a7.js",
     "static/js/453.94cd9e43.chunk.js": "/S-L_Beauty/static/js/453.94cd9e43.chunk.js",
     "static/media/bestbrindalOffer22.png": "/S-L_Beauty/static/media/bestbrindalOffer22.0114e50526a2eb5d35fb.png",
     "static/media/bestbrindalOffer11.png": "/S-L_Beauty/static/media/bestbrindalOffer11.619c89f1f207e0ec8daa.png",
@@ -23,11 +23,11 @@
     "index.html": "/S-L_Beauty/index.html",
     "static/media/background180.svg": "/S-L_Beauty/static/media/background180.2b5d7075fb6fe6e03b103dbaa7c594e9.svg",
     "main.25eaaff8.css.map": "/S-L_Beauty/static/css/main.25eaaff8.css.map",
-    "main.466946d4.js.map": "/S-L_Beauty/static/js/main.466946d4.js.map",
+    "main.c935f1a7.js.map": "/S-L_Beauty/static/js/main.c935f1a7.js.map",
     "453.94cd9e43.chunk.js.map": "/S-L_Beauty/static/js/453.94cd9e43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25eaaff8.css",
-    "static/js/main.466946d4.js"
+    "static/js/main.c935f1a7.js"
   ]
 }
