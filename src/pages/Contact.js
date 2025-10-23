@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 import background180 from '../img/background180.svg';
-import discount25off from '../img/25off.png'; // Assuming this image is still used for 25% off
+import discount25off from '../img/25off.png';
+import '../css/contact.css';
 function Contact() {
   const [formData, setFormData] = useState({
     name: '',
