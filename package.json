@@ -2,7 +2,7 @@
   "name": "sl_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://S&L.github.io/S-L_Beauty",
+  "homepage": "https://slbeauty1999-hub.github.io/S-L_Beauty",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@fortawesome/free-brands-svg-icons": "^7.1.0",
